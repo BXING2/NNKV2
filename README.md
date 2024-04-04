@@ -24,5 +24,7 @@ The figure illustrates the computational time for performing NNK simulations wit
 The simulation is performed on the Macbook Pro (version 12.4) with a single cpu core. The average computational time for one atomic jump is around 1.6-1.7 ms.
 
 # Example
+The video demonstrates vacancy diffusion from NNK simulation with 10,000 atomic jumps. The model contains 8,192,000 atoms. The total simulation time is 166.06 s (133.26 s for initialization and 32.80 s for iteration).
+
 https://github.com/BXING2/NNKV2/assets/126745914/d3cf7150-b460-481b-8a89-047a96efde1e
 
