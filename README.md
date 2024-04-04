@@ -21,6 +21,8 @@ The program will generate the output files in the folder called res_data. The py
 
 The figure illustrates the computational time for performing NNK simulations with 100,000 atomic jumps in models with various size. The x axis indicates the number of unit cells along each dimension. When the number unit cells are 10, 20, 40, 80, 160 along each dimension, the model contains 2,000, 16,000, 128,000, 1,024,000 and 8,192,000 atoms, respectively. The initialization is only performed once even if the time increases with increasing number of atoms. Notably, the iteration time is almost independent of model size as indicated by the constant computational iteration time in different models. For long time simulations, the iteration stage acts as the bottleneck of the simulation. Based on the performance, the NNK simulation can generalize well to large scale simulations.
 
+The simulation is performed on the Macbookm Pro (version 12.4) with a single cpu core. The average computational time for one atomic jump is around 1.6-1.7 ms.
+
 # Example
 https://github.com/BXING2/NNKV2/assets/126745914/d3cf7150-b460-481b-8a89-047a96efde1e
 
