@@ -17,5 +17,7 @@ Commands:  python nnk_simu.py user_inp
 The program will generate the output files in the folder called res_data. The python script postprocess.py is used for extracting useful information from simulation outputs such as reconstructing and dumping atomic configurations. 
 
 # Performance
+![image](https://github.com/BXING2/NNKV2/assets/126745914/a3377f56-9bfe-48d2-bb8c-18a0b7c1fd0d)
+
 
 # Example
