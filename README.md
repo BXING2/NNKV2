@@ -12,8 +12,7 @@ The python package will be installed following the listed steps.
 # Usage 
 The example folder provides scripts for performing NNK simulations. 
 
-Commands
-python nnk_simu.py user_inp
+Commands:  python nnk_simu.py user_inp
 
 The program will generate the output files in the folder called res_data. The python script postprocess.py is used for extracting useful information from simulation outputs such as reconstructing and dumping atomic configurations. 
 
