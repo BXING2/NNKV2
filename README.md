@@ -21,5 +21,5 @@ The program will generate the output files in the folder called res_data. The py
 
 
 # Example
-https://github.com/BXING2/NNKV2/assets/126745914/96b9f3aa-b0c6-469c-b243-191920c4c5d7
+https://github.com/BXING2/NNKV2/assets/126745914/d3cf7150-b460-481b-8a89-047a96efde1e
 
