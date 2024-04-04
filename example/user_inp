@@ -1,0 +1,22 @@
+init_config_dump: initial_model/initial.dump.20
+
+dim_row: 6
+dim_row_num: 3
+config_row: 10
+num_of_atoms: 16000
+
+cutoff: 7.5
+voxel_size: 1.62
+flatten: 1
+
+init_step: 1
+num_of_steps: 1000
+dump_vacancy_id: 1
+random_vacancy: 0
+vacancy_id: 100
+num_of_cpus: 1
+log_file: nnk.log
+res_dir: ./res_data
+
+temperature: 2000
+ml_model_weight: ./weights.npy
