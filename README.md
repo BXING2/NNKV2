@@ -1,4 +1,4 @@
-# NNKV2
+# Neural Network Kinetics (NNK) V2
 This repository contains the python package called neural network kinetics (NNK) for vacancy diffusion simulation. The NNK scheme can efficiently simulate vacancy diffusion via combining deep neural network and kinetic Monte Carlo. The deep neural network predicts the path-dependent energy barriers from local atomic environment encoded by on-lattice representation. The kinetic Monte Carlo samples the diffusion jump direction and timescale based on neural network predicted energy barriers. The simulation includes an initialization and iteration stage. The initialization stage includes one-time tasks such as neuron map creation, neighbor atom search, etc. The iterative stage includes repetitive tasks such as local neuron map update, energy barrier prediction, etc.
 
 # Installation
